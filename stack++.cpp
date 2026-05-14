@@ -81,7 +81,7 @@ int main()
     while (choice != 5)
     {
         cout << "1.push\n";
-        
+        cout << "2.pop\n";
     }
 
 }
