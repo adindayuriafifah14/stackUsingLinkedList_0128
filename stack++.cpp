@@ -35,5 +35,13 @@ public:
         return value;
     }
 
-    
+    void pop()
+    {
+        if (top == NULL)
+        {
+            cout << "List is empty." << endl;
+        }
+        
+        
+    }
 }
